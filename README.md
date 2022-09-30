@@ -1,4 +1,4 @@
-### API REST con relaciones "OneToOne" en Spring Boot
+### API REST con relaciones "OneToOne" en Java Spring Boot
 
 
 ![Postman 20_6_2022 22_05_56](https://user-images.githubusercontent.com/88462536/174697426-42d1bcb0-1107-4b06-bf3e-1887acba5076.png)
